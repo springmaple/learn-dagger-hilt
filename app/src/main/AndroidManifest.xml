@@ -4,6 +4,7 @@
     package="com.springmaple.learn_hilt">
 
     <application
+        android:name=".HiltApplication"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
